@@ -8,16 +8,16 @@
 <img align="right" alt="Coding" width="470" src="https://steamuserimages-a.akamaihd.net/ugc/779617186786599025/41F1A06D7D8CE3463C235B9637058FD9EDFDF583/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
 
 - 👨‍💻 Desenvolvedor Full Stack
-- 📚 No Momento estou aprendendo: **ReactJS e Java**
+- 📚 No Momento estou aprendendo: **Angular e Java**
 - 🤝 Caso Precise de dicas, Busque no Repositório: [Guia DEV Brasil](https://github.com/arthurspk/guiadevbrasil)-
 - ⚡ Meus Hobbies: **Design UI | UX e Videogames**
-- 🪴 Projeto atual: Desenvolvendo uma Startup...
+- 🪴 Projeto atual: Desenvolvendo uma Startup Sustentável...
 
 <h3 align="left">Linguagens: </h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
@@ -25,10 +25,6 @@
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="10" />
