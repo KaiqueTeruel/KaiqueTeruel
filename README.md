@@ -7,33 +7,25 @@
 
 <img align="right" alt="Coding" width="470" src="https://steamuserimages-a.akamaihd.net/ugc/779617186786599025/41F1A06D7D8CE3463C235B9637058FD9EDFDF583/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true">
 
-- 👨‍💻 Desenvolvedor Full Stack
-- 📚 No Momento estou aprendendo: **Angular e Java**
+- 👨‍💻 Analista de Dados
+- 📚 No Momento estou aprendendo: **Python e Tableau**
 - 🤝 Caso Precise de dicas, Busque no Repositório: [Guia DEV Brasil](https://github.com/arthurspk/guiadevbrasil)-
-- ⚡ Meus Hobbies: **Design UI | UX e Videogames**
-- 🪴 Projeto atual: Desenvolvendo uma Startup Sustentável...
+- ⚡ Meus Hobbies: **Viajar e Sair com Amigos**
+- 🪴 Projeto atual: Loading...
 
-<h3 align="left">Linguagens: </h3>
+<h3 align="left">Ferramentas: </h3>
 
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="10" />
+  
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" height="20" alt="Python"  />
+  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" height="20" alt="Pandaso"  />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="20" alt="MySQL"  />
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="20" alt="Excel"  />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" height="20" alt="Tableau"  />
+  <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" height="20" alt="PyCharm"  />
+  <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" height="20" alt="Google Colab"  />
 </div>
 
 ###
@@ -50,16 +42,18 @@
 <h3 align="center" >Conexões:</h3><p><a href="https://www.buymeacoffee.com/KaiqueTeruel">
   
 <div align="center">
-<img  src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="KaiqueTeruel - Buy me Coffe " />
-<a href="https://www.instagram.com/kaiqueteruel/" target="_blank">
+<a href="https://www.instagram.com/teruel.dev/" target="_blank">
   <img  src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="45" width="170" alt="Kaique Teruel - Instagram"/>
 </a>
+  
 <a href="https://www.linkedin.com/in/kaiquepinheiroteruel/" target="_blank">
 <img  src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="45" width="170" alt="Kaique Teruel - LinkedIn"/>
- </a>
+</a>
+ 
 <a href="mailto:kaiqueteruel@gmail.com">
   <img src="https://img.shields.io/badge/gmail-ea4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" height="45" width="170" alt="Kaique Teruel - E-mail"/>
 </a>
+
 </div>
 
 ###
